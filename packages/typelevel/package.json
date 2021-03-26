@@ -1,6 +1,6 @@
 {
   "name": "@ahrjarrett-org/typelevel",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "typescript utilities, etc.",
   "author": "Andrew Jarrett <ahrjarrett@gmail.com>",
   "homepage": "https://github.com/ahrjarrett/npm-packages",
