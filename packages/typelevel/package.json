@@ -1,6 +1,6 @@
 {
   "name": "@ahrjarrett-org/typelevel",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": false,
   "description": "typescript utilities, etc.",
   "author": "Andrew Jarrett <ahrjarrett@gmail.com>",
