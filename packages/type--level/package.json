@@ -1,11 +1,11 @@
 {
-  "name": "@ahrjarrett-org/typelevel",
-  "version": "0.1.3",
-  "description": "typescript utilities, etc.",
+  "name": "type--level",
+  "version": "0.1.2",
+  "description": "> TODO: description",
   "author": "Andrew Jarrett <ahrjarrett@gmail.com>",
-  "homepage": "https://github.com/ahrjarrett/npm-packages",
+  "homepage": "https://github.com/ahrjarrett/npm-packages#readme",
   "license": "MIT",
-  "main": "lib/typelevel.js",
+  "main": "lib/type--level.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -21,10 +21,9 @@
     "url": "git+https://github.com/ahrjarrett/npm-packages.git"
   },
   "scripts": {
-    "tsc": "tsc"
+    "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
     "url": "https://github.com/ahrjarrett/npm-packages/issues"
-  },
-  "gitHead": "484320a78743897868628311487f9a1f78623ab4"
+  }
 }
