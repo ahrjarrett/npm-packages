@@ -1,10 +1,10 @@
 {
   "name": "@ahrjarrett-org/typelevel",
   "version": "0.0.1",
-  "private": false,
+  "private": true,
   "description": "typescript utilities, etc.",
   "author": "Andrew Jarrett <ahrjarrett@gmail.com>",
-  "homepage": "https://github.com/ahrjarrett/packages",
+  "homepage": "https://github.com/ahrjarrett/npm-packages",
   "license": "MIT",
   "main": "lib/typelevel.js",
   "directories": {
@@ -19,12 +19,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahrjarrett/packages.git"
+    "url": "git+https://github.com/ahrjarrett/npm-packages.git"
   },
   "scripts": {
     "tsc": "tsc"
   },
   "bugs": {
-    "url": "https://github.com/ahrjarrett/packages/issues"
-  }
+    "url": "https://github.com/ahrjarrett/npm-packages/issues"
+  },
+  "gitHead": "484320a78743897868628311487f9a1f78623ab4"
 }

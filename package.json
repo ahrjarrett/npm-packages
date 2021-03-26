@@ -1,7 +1,7 @@
 {
   "name": "@ahrjarrett-org/npm-packages",
-  "version": "0.0.2",
-  "private": false,
+  "version": "0.0.3",
+  "private": true,
   "workspaces": [
     "packages/*"
   ],
