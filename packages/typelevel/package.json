@@ -1,0 +1,30 @@
+{
+  "name": "@ahrjarrett-org/typelevel",
+  "version": "0.0.0",
+  "private": false,
+  "description": "typescript utilities, etc.",
+  "author": "Andrew Jarrett <ahrjarrett@gmail.com>",
+  "homepage": "https://github.com/ahrjarrett/packages",
+  "license": "MIT",
+  "main": "lib/typelevel.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahrjarrett/packages.git"
+  },
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "bugs": {
+    "url": "https://github.com/ahrjarrett/packages/issues"
+  }
+}
